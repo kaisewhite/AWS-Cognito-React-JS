@@ -7,7 +7,7 @@ are in /Components/
 
 ## Available Scripts
 
-In the project directory, you can run: app.js
+In the project directory, you can run:
 
 ### `NPM start`
 
